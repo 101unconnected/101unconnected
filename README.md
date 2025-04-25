@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @101unconnected
+- 👋 Hi, I'm Ibrahim Surya Kusuma!
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, CSS, Python, and C++
 - 💞️ I’m looking to collaborate on nothing for now sorry
 - 📫 How to reach me also nothing apologize
 
